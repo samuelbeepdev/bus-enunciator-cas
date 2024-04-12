@@ -22,6 +22,6 @@ ROUTE:
         - Juan Street and Harney Street
         - Last stop: Old Town Transit Center
 SYNC:
-    INTRO:
+    DEFAULT:
         - DEFAULT:
               - <TTS> *
