@@ -1,0 +1,27 @@
+BASEPATH: https://github.com/samuelbeepdev/bus-enunciator-cas/raw/main/
+
+ROUTE:
+    NB83:
+        - India Street and Cedar Street
+        - Kalmia Street
+        - Maple Street
+        - Reynard Way across from Two-thousand eight hundred and fifty Reynard Way
+        - Eagle Street
+        - Curlew Street
+        - Otsego Drive
+        - Goldfinch Street and Pennsylvania Avenue
+        - Bush Street
+        - Washington Street and Goldfinch Street
+        - Hawk Street and Fort Stockton Drive
+        - Lewis Street and Jackdaw Street
+        - Lark Street
+        - Palmetto Way
+        - Hermosa Way
+        - Sunset Boulevard and Saint James Place
+        - Witherby Street
+        - Juan Street and Harney Street
+        - Last stop: Old Town Transit Center
+SYNC:
+    INTRO:
+        - DEFAULT:
+              - <TTS> *
